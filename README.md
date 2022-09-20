@@ -3,7 +3,7 @@ the dataset used in LZASD
 
 ## dataset.txt 
 - the dataset is masked
-- the seperation is '\x01' in python
+- the column is seperated with '\x01' and the character is seperated with '\x02' in python
 - label 1 denotes a spam sentences.
 
 ## similarity_matrix.pkl
